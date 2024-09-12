@@ -1,0 +1,22 @@
+## Linguagem de programação
+
+Maneira de passar instrução ao computador.
+Como um lego, irá utilizar peças para criar e computar os algoritmos, para resolver os problemas.
+
+**Algoritmo**: Sequência de passos lógica finita e para resolução do problema.
+
+## Peças de uma linguagem
+
+- comentários
+- Declaracao de váriaveis(const,let)
+- Operadores (atribuição, cancatenação, matemáticos, lógicos)
+- Tipos de dados (string, number, boolean)
+- Estrutura de dados ( functions, object, array )
+- Controle de fluxo ( if/else )
+- Estrutura de repetição ( for, while)
+
+# Fases da resolução de um problema
+
+Coletar os dados
+Processar os dados (manipular, alterar ...)
+Apresentar os dados
