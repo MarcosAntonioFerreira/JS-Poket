@@ -34,3 +34,16 @@ Function
 
 ## Operadores
 = Operador de atribuição
++ Operador de concatenação
+
+
+## Estrutura de dados:
+
+### Arrays: 
+    Uma lista que contém qualquer tipo de dado
+
+### Objetos
+
+Atributos e métodos
+Cração e manipulac1aa2o de objetos
+Acesso a propriedades de objetos
