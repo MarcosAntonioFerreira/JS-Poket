@@ -35,7 +35,8 @@ Function
 ## Operadores
 = Operador de atribuição
 + Operador de concatenação
-
+== Operador de comparação
+!= Operador de diferente
 
 ## Estrutura de dados:
 
@@ -60,6 +61,7 @@ while
 # Condicionais
 
 switch
+if/else
 
 ## Módulos em Node.JS:
 
