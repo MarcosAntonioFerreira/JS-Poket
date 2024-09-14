@@ -47,3 +47,12 @@ Function
 Atributos e métodos
 Cração e manipulac1aa2o de objetos
 Acesso a propriedades de objetos
+
+### Functions
+criar, passar argumento
+executar
+arrow function / named function
+
+# Estrutura de repetição
+
+while

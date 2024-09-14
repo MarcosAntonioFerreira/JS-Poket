@@ -1,5 +1,9 @@
-// arrays, objetos
+const start = () => {
 
-let metas = ["mayk", "alo"]
+    
+    while(true){
 
-console.log(metas[0] + metas [1]);
+    }
+}
+
+start()
