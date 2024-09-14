@@ -38,10 +38,13 @@ Function
 == Operador de comparação
 != Operador de diferente
 
+... spread operator
+
 ## Estrutura de dados:
 
 ### Arrays: 
     Uma lista que contém qualquer tipo de dado
+    Métodos de Array - funcoes : push, [ find, foreach, filter] : HOF - High Order Functions
 
 ### Objetos
 
