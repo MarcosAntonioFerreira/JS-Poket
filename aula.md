@@ -44,7 +44,7 @@ Function
 
 ### Arrays: 
     Uma lista que contém qualquer tipo de dado
-    Métodos de Array - funcoes : push, [ find, foreach, filter] : HOF - High Order Functions
+    Métodos de Array - funcoes : push, [ find, foreach, filter, map] : HOF - High Order Functions
 
 ### Objetos
 
