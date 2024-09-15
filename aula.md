@@ -70,7 +70,13 @@ if/else
 
 Importação de módulos (require, Common JS)
 Biblioteca 'inquirer' para criar prompts interativos
+FS file system
 
+## JSON
+
+java script notation
+JSON.parse() - JSON para JS
+JSON.stringfy - JS para JSON
 ## Programação assíncrona e Promises:
 
 Uso de funções assíncronas (async/await)
